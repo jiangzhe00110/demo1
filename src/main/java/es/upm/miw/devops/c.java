@@ -1,5 +1,7 @@
 package es.upm.miw.devops;
 
 public class c {
+    public void mm(){
 
+    }
 }
